@@ -1,6 +1,7 @@
 {
-	"ip":"Your IP",
-	"port": "Your Port",
-	"name": "Name Bot",
+	"ip":"phat12.aternos.me",
+	"port": "25358",
+	"name": "boybot",
 	"auto-night-skip":"false"
 }
+
